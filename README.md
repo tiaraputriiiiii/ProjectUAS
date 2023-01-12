@@ -1,5 +1,7 @@
 Nama : Tiara Putri
+
 NIM : 312210064
+
 Kelas : TI.22.A1
 
 ## Repository ini dibuat sebagai project UAS Bahasa Pemrograman
