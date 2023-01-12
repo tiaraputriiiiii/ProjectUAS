@@ -19,7 +19,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[VIDEO PENJELASAN TENTANG MVC](https://youtu.be/QsiihI79zWw)
+[VIDEO PENJELASAN TENTANG MVC](https://youtu.be/7jVGgo0rKQk)
 
 Berikut link repository github :
 
